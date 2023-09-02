@@ -1,9 +1,8 @@
 ## Videos de Youtube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/44ziZ12rJwU?si=y5o1FnbB581Uc7_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video 1](https://img.youtube.com/vi/7gln2J7ILmw/0.jpg)](https://youtu.be/7gln2J7ILmw?si=9qseEZmS3ZTtNATo)
 
-Video 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C6IjS7jKnjQ?si=JjlIP7UaDldFN1jF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video 2](https://img.youtube.com/vi/ssMNCIUPOLI/0.jpg)](https://youtu.be/ssMNCIUPOLI?si=a6JrGixoFRTPIaHt)
 
-Video 3
-<iframe width="560" height="315" src="https://www.youtube.com/embed/44ziZ12rJwU?si=6ezi2GecuOdMj1Mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video 3](https://img.youtube.com/vi/a8CwpGARAsQ/0.jpg)](https://youtu.be/a8CwpGARAsQ?si=cLfTBHcPjqpSErXC)
+
