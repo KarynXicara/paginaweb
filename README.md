@@ -1,5 +1,11 @@
 # GIT y GitHub
 **Agosto 2023**
+USAC – EFPEM
+
+Lic. en la Enseñanza de la Informática y la Computación.
+
+Curso: Didáctica de la programación
+
 ![enter image description here](https://matthew.krupczak.org/wp-content/uploads/2020/05/git-logo-150x150.png)
 ![enter image description here](https://marcas-logos.net/wp-content/uploads/2020/03/GITHUB-LOGO-150x150.png)
 |Carnet| 201409965 |
@@ -15,5 +21,12 @@ El lenguaje utilizado para escribir los archivos README.md es Markdown, también
 puede utilizar HTML.
 
 [Listas con números](https://github.com/KarynXicara/paginaweb/blob/main/pagina2.md)
+
+
+[Videos de YouTube](https://github.com/KarynXicara/paginaweb/blob/main/pagina3.md)
+
+
+
+
 
 
